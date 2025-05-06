@@ -1,0 +1,12 @@
+{
+    "postsPath" : "app\/blog\/posts",
+    "siteMetadata" : {
+        "path" : "siteMetadata.js",
+        "format": "js-export",
+        "schema": {
+            "title": "title",
+            "author": "author",
+            "description": "description"
+        }
+    }
+}
