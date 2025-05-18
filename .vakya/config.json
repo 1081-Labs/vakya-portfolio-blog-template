@@ -1,12 +1,15 @@
 {
-    "postsPath" : "app\/blog\/posts",
-    "siteMetadata" : {
-        "path" : "siteMetadata.js",
-        "format": "js-export",
-        "schema": {
-            "title": "title",
-            "author": "author",
-            "description": "description"
-        }
-    }
+  "gitRemoteURL" : "https:\/\/github.com\/yask123\/spotight",
+  "postsPath" : "app\/blog\/posts",
+  "siteMetadata" : {
+    "schema" : {
+      "description" : "description",
+      "author" : "author",
+      "title" : "title"
+    },
+    "path" : "siteMetadata.js",
+    "format" : "js-export"
+  },
+  "fontSize" : 16,
+  "fontName" : "iAWriterQuattroS-Regular"
 }
